@@ -1,0 +1,8 @@
+Журнал инцидента: несанкционированный доступ к сервису.
+Скомпрометированная учётная запись:
+Логин: service_admin
+Пароль: Qw!2024_root
+Источник подключения: 203.0.113.45
+Перехваченный токен сессии: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5OTkifQ.dBjftJeZ4CVP-mB92K27uhbUJU1p1r_wW1gFWFOEjXk
+Ключ API платёжного шлюза: sk-LIVEabcdefghij1234567890XYZ
+Уведомления об инцидентах: soc@corp-test.local

@@ -1,0 +1,26 @@
+Отчёт по сети
+
+Email: admin@test.ru
+Email: support@test.ru
+
+IP сервера: 192.168.0.10
+
+Пароль: qwerty123
+
+Телефон: +7 999 123 45 67
+
+MD5:
+5f4dcc3b5aa765d61d8327deb882cf99
+
+SHA1:
+a9993e364706816aba3e25717850c26c9cd0d89d
+
+SHA256:
+9f86d081884c7d659a2feaa0c55ad015
+a3bf4f1b2b0b822cd15d6c15b0f00a08
+
+Сайт:
+https://test.ru
+
+Домен:
+company.local

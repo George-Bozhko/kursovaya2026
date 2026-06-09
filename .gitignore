@@ -1,0 +1,12 @@
+venv/
+.idea/
+
+__pycache__/
+*.pyc
+
+reports/
+expert_report.pdf
+
+*.log
+
+.env
